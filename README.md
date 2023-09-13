@@ -22,4 +22,4 @@ I am an entrepreneur and tech enthusiast. As the founder of UserMotion, a sales 
 
 💬 **Reach Me**
 
-You can reach me at [LinkedIn](https://www.linkedin.com/in/namirali/), or drop me an email at [me[at]amiralinu.com].
+You can reach me at [LinkedIn](https://www.linkedin.com/in/namirali/), or drop me an email at me[at]amiralinu.com
