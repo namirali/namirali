@@ -1,16 +1,25 @@
-### Hi there 👋
+### 👋 Hello, I'm Amirali
 
-<!--
-**namirali/namirali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an entrepreneur and tech enthusiast. As the founder of UserMotion, a sales intelligence platform, I aim to revolutionize the B2B SaaS industry by helping companies identify and engage with high-value accounts effectively.
+
+
+🌱 **Skills**
+
+- SaaS Business Development
+- Full-Stack Development
+- Marketing & Sales Strategies
+
+
+🔗 **Projects**
+
+- 📊 [UserMotion](https://usermotion.com): An AI-powered sales intelligence platform for B2B SaaS companies.
+- 👔 AnnounceKit (Acquired)
+
+
+
+💬 **Reach Me**
+
+You can reach me at [LinkedIn](https://www.linkedin.com/in/namirali/), or drop me an email at [me[at]amiralinu.com].
